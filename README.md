@@ -1,16 +1,16 @@
-# CryptoFlow – One Page Template
+# Pixels – Free template to start your Next.js site.
 #### Preview
 
- - [Demo](https://themewagon.github.io/cryptoflow/)
+ - [Demo](https://themewagon.github.io/pixels-nextjs/)
 
 #### Download
- - [Download from ThemeWagon](https://themewagon.com/themes/cryptoflow/)
+ - [Download from ThemeWagon](https://themewagon.com/themes/pixels-nextjs/)
 
 ## Getting Started
 
 1. Clone Repository
 ```
-git clone https://github.com/themewagon/cryptoflow.git
+git clone https://github.com/themewagon/pixels-nextjs.git
 ```
 2. Install Dependencies
 ```
@@ -30,12 +30,12 @@ bun dev
 
 ## Author 
 ```
-Design and code is completely written by codescandy and development team. 
+Design and code is completely written by PrebuiltUI and development team. 
 ```
 
 ## License
 
- - Design and Code is Copyright &copy; [codescandy](https://codescandy.com)
+ - Design and Code is Copyright &copy; [PrebuiltUI](https://prebuiltui.com/)
  - Licensed cover under [MIT]
  - Distributed by [ThemeWagon](https://themewagon.com)
 
