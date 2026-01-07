@@ -2,7 +2,6 @@ import type { NextConfig } from 'next';
 
 const nextConfig: NextConfig = {
     output: 'export',
-    basePath: '/pixels-nextjs',
     images: {
         remotePatterns: [
             {
@@ -21,7 +20,7 @@ const nextConfig: NextConfig = {
     // Fix for workspace root inference if using Turbopack
     experimental: {
         turbopack: {
-            root: 'c:/Users/shaje/Downloads/pixels-nextjs',
+            root: 'c:/Users/shaje/Downloads',
         },
     } as any,
 };

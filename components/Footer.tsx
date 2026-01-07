@@ -16,7 +16,7 @@ export default function Footer() {
                 transition={{ type: "spring", stiffness: 280, damping: 70, mass: 1 }}
             >
                 <a href="https://prebuiltui.com?utm_source=pixels" target="_blank">
-                    <Image className="size-8 aspect-square" src="/pixels-nextjs/assets/footer-logo.svg" alt="footer logo" width={32} height={32} priority />
+                    <Image className="size-8 aspect-square" src="/assets/footer-logo.svg" alt="footer logo" width={32} height={32} priority />
                 </a>
                 {footerData.map((section, index) => (
                     <div key={index}>

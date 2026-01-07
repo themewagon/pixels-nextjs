@@ -14,7 +14,7 @@ export default function RootLayout({ children, }: Readonly<{
     return (
         <html lang="en">
             <head>
-                <link rel="preload" href="/pixels-nextjs/assets/background-splash.svg" as="image" />
+                <link rel="preload" href="/assets/background-splash.svg" as="image" />
             </head>
             <body>
                 <LenisScroll />
